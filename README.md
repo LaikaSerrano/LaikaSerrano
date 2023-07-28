@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+## I am Laïka and this is my github :)
+
+For general purposes, I am currently a student in France and programming because my studies are boring 😴, if you need to reach me for any reasons : laikatranscat on discord :)
+
+### Currently learning : 
+- 🌱 C
+- ♠ C++
+
+### Learned in the past :
+- 🍵 Java
+- 🐍 Python
+
+### Right now I am working on : 
+- A game engine
+
+
+
 <!--
 **LaikaSerrano/LaikaSerrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
